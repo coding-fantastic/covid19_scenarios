@@ -98,7 +98,7 @@
 </p>
 
 
-<h2 align="right">
+<h2 align="center">
 Got questions or suggestions?
 </h2>
 
