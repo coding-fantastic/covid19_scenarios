@@ -96,14 +96,9 @@
     <img src="https://img.shields.io/twitter/follow/lex_rico2?style=social" alt="Twitter Follow" />
   </a>
 </p>
-<p align="center">
-  <a href="https://twitter.com/lex_rico2">
-    <img src="https://img.shields.io/twitter/follow/lico2?style=social" alt="Twitter Foll
-    
-  </a>
-</p>
 
-<h2 align="center">
+
+<h2 align="right">
 Got questions or suggestions?
 </h2>
 
